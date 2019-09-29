@@ -1,0 +1,5 @@
+{
+    "lambda_memory": "128",
+    "lambda_timeout": "300",
+    "arn_hash": "381745671765"
+}

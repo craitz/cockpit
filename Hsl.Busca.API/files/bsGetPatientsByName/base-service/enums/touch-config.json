@@ -1,0 +1,20 @@
+{
+    "STATUS_REQUEST": {
+        "CRIADO": 1,
+        "EM_EXECUCAO": 2,
+        "CONCLUIDO": 3,
+        "CANCELADO": 4,
+        "NAO_CONFIRMADO": 5
+    },
+    "URL": "http://10.132.1.156/agendamento-sirio/wise/api/",
+    "TIME_TOKEN_EXPIRATION_MIN": 5,
+    "TIME_REQUEST_EXPIRATION_MIN": 10,
+    "TOKEN": "me",
+    "AGENDAMENTO": "agendamentos",
+    "REQUEST": "requisicoes",
+    "HEALTH_PLAN_COVERAGE": "coberturas",
+    "SCHEDULE": "horarios",
+    "REQUEST_SECHEDULE": "requisicoes/{scheduleResquestId}/agendamentos",
+    "FROM_TO_DOCTOR_INTERNAL": "sirio/de-para/medico/{idExterno}",
+    "FROM_TO_PATIENT_INTERNAL": "sirio/de-para/paciente/{idExterno}"   
+}

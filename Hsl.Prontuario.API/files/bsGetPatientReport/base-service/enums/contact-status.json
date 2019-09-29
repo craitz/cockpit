@@ -1,0 +1,6 @@
+{
+    "HAS_PHONE": 1,
+    "HAS_EMAIL": 2,
+    "HAS_BOTH": 3,
+    "HAS_NONE": 4
+}

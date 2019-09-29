@@ -1,0 +1,3 @@
+bsGetDoctorScheduledPatients
+bsGetScheduledPatientStatus
+bsGetScheduleType

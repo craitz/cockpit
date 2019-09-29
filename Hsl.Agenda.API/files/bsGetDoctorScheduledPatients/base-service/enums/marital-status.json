@@ -1,0 +1,8 @@
+{
+    "SOLTEIRO": 1,
+    "CASADO": 2,
+    "DIVORCIADO": 3,
+    "VIUVO": 4,
+    "UNIAO_ESTAVEL": 5,
+    "OUTROS": 6
+}

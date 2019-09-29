@@ -1,0 +1,7 @@
+API_PATH="C:/Users/craitz/dev/hsl/Cockpit/Hsl.Busca.API"
+FILES_PATH="${API_PATH}/files"
+LIBS_PATH="${API_PATH}/libs"
+SCRIPTS_PATH="${API_PATH}/scripts"
+BASE_DIR_NAME="base-service"
+BASE_PATH="${LIBS_PATH}/${BASE_DIR_NAME}"
+BASE_SERVICE_UPDATE_LIST="${SCRIPTS_PATH}/${BASE_DIR_NAME}/all-files.txt"
